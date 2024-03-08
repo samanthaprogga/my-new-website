@@ -30,7 +30,6 @@ header h1 {
     color: #fff;
 }
 
-/* Rest of your existing styles remain unchanged */
 
 nav {
     display: flex;
@@ -222,7 +221,7 @@ footer {
 /* Adjustments for smaller screens */
 @media only screen and (max-width: 768px) {
     body {
-        font-size: 14px; /* Adjust font size for smaller screens if needed */
+        font-size: 14px;
     }
 
     /* Additional adjustments for other elements as needed */
