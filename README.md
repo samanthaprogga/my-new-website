@@ -2,6 +2,7 @@
 
 Welcome to the repository for my personal website. This single-page website showcases my profile as a software developer, including information about me, my projects, and ways to get in touch.
 
+Try out my new website [here](https://samanthaprogga.github.io/my-new-website/)
 ## Table of Contents
 
 - [About Me](#about-me)
