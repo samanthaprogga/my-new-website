@@ -55,7 +55,7 @@ main {
 }
 
 .hero-image {
-    background: url("./dark.jpg") center / cover no-repeat;
+    background: url("./assets/dark.jpg") center / cover no-repeat;
     height: 500px;
     position: relative;
 }
